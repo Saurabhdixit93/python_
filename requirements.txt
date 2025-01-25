@@ -1,9 +1,6 @@
-fastapi==0.95.2
-uvicorn==0.22.0
-python-dotenv==1.0.0
-smtplib==3.10.8
-imaplib==2.58
-email==6.0.0
-appium-python-client==2.11.1
-requests==2.31.0
-beautifulsoup4==4.12.2
+fastapi
+uvicorn
+python-dotenv
+requests
+beautifulsoup4
+appium-python-client
